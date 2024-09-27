@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocasmegm.github.io/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/app/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/assets/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/css/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/data/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/includes/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/item/sitemap.ocasmegm.gz
+Sitemap: https://ocasmegm.github.io/src/sitemap.ocasmegm.gz
